@@ -1,4 +1,6 @@
-My Awesome Book
+First Note Book
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is my first book of notes.
+
+You will find random thoughts about random things with our without context or meaning.
