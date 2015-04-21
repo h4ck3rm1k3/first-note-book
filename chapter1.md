@@ -29,7 +29,7 @@ transform the backend interface to call into the other API.
 ##Similar ideas
 
 * Man in the middle proxy https://mitmproxy.org/
-* https://github.com/BaiduQA/terminator (chinese) see translation https://github.com/h4ck3rm1k3/terminator
+* service virtualization terminator https://github.com/BaiduQA/terminator (chinese) see translation https://github.com/h4ck3rm1k3/terminator
 * Service Virtualization https://en.wikipedia.org/wiki/Service_virtualization
 * Membrane Service Proxy https://github.com/membrane/service-proxy
 * Mock Server http://www.mock-server.com/
@@ -37,4 +37,3 @@ transform the backend interface to call into the other API.
 
 ## See Also
 * http://www.programmableweb.com/news/top-tools-to-help-you-mock-web-services/how-to/2014/01/13
-* 
